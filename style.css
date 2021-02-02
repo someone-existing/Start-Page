@@ -11,9 +11,6 @@
 }
 
 body {
-  scale: 150%;
-  overflow: hidden;
-  position: fixed;
   background-color: #21252b;
   width: 100%;
   height: 100vh;
@@ -90,11 +87,4 @@ body {
 
 .column a:hover {
   color: #4c566a;
-}
-
-img {
-  width: 18px;
-  margin-right: 5px;
-  transform: translateY(2px);
-  padding-right: 4px;
 }
